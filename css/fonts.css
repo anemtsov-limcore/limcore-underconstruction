@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Actay';
+  src: local('Actay Regular'), local('Actay-Regular'),
+  url('/fonts/actay/actay-regular.woff2') format('woff2'),
+  url('/fonts/actay/actay-regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Actay Wide';
+  src: local('Actay Wide Bold'), local('Actay-Wide-Bold'), local('ActayWide-Bold'),
+  url('/fonts/actay/actaywide-bold.woff2') format('woff2'),
+  url('/fonts/actay/actaywide-bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Damn';
+  src: local('DAMN'), local('DAMN Regular'), local('DAMN-Regular'),
+  url('/fonts/damn/damn.woff2') format('woff2'),
+  url('/fonts/damn/damn.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
